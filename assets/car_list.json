@@ -1,7 +1,7 @@
 [
   {
     "name": "Gran Turismo RED BULL X2019 COMPETITION",
-    "image-src": "images/cars/side/gts_car_296.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_296.jpg?v=1",
     "category": "Gr.X",
     "drive": "MR",
     "power": 805,
@@ -17,7 +17,7 @@
   },
   {
     "name": "Subaru WRX GR.3",
-    "image-src": "images/cars/side/gts_car_137.jpg",
+    "imageSrc": "images/cars/side/gts_car_137.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 522,
@@ -33,7 +33,7 @@
   },
   {
     "name": "Mercedes-Benz A 45 AMG 4MATIC 2013",
-    "image-src": "images/cars/side/gts_car_043.jpg",
+    "imageSrc": "images/cars/side/gts_car_043.jpg",
     "category": "N 400",
     "drive": "4WD",
     "power": 355,
@@ -49,7 +49,7 @@
   },
   {
     "name": "Jaguar F-TYPE GR.3",
-    "image-src": "images/cars/side/gts_car_024.jpg",
+    "imageSrc": "images/cars/side/gts_car_024.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 551,
@@ -65,7 +65,7 @@
   },
   {
     "name": "L",
-    "image-src": "images/cars/side/gts_car_105.jpg",
+    "imageSrc": "images/cars/side/gts_car_105.jpg",
     "category": "N 800",
     "drive": "4WD",
     "power": 739,
@@ -81,7 +81,7 @@
   },
   {
     "name": "McLaren P1 GTR 2016",
-    "image-src": "images/cars/side/gts_car_271.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_271.jpg?v=1",
     "category": "Gr.X",
     "drive": "MR",
     "power": 986,
@@ -97,7 +97,7 @@
   },
   {
     "name": "Mercedes-Benz MERCEDES-AMG GTS 2015",
-    "image-src": "images/cars/side/gts_car_044.jpg",
+    "imageSrc": "images/cars/side/gts_car_044.jpg",
     "category": "N 500",
     "drive": "FR",
     "power": 503,
@@ -113,7 +113,7 @@
   },
   {
     "name": "Toyota SUPRA 3.0GT TURBO A 1988",
-    "image-src": "images/cars/side/gts_car_204.jpg",
+    "imageSrc": "images/cars/side/gts_car_204.jpg",
     "category": "N 300",
     "drive": "FR",
     "power": 266,
@@ -129,7 +129,7 @@
   },
   {
     "name": "Alpine A110 PREMIERE EDITION 2017",
-    "image-src": "images/cars/side/gts_car_194.jpg",
+    "imageSrc": "images/cars/side/gts_car_194.jpg",
     "category": "N 300",
     "drive": "MR",
     "power": 248,
@@ -145,7 +145,7 @@
   },
   {
     "name": "Peugeot PEUGEOT L750R HYBRID VISION GRAN TURISMO 2017",
-    "image-src": "images/cars/side/gts_car_080.jpg",
+    "imageSrc": "images/cars/side/gts_car_080.jpg",
     "category": "Gr.1",
     "drive": "4WD",
     "power": 693,
@@ -161,7 +161,7 @@
   },
   {
     "name": "Porsche 911 GT3 RS 2016",
-    "image-src": "images/cars/side/gts_car_064.jpg",
+    "imageSrc": "images/cars/side/gts_car_064.jpg",
     "category": "N 500",
     "drive": "RR",
     "power": 491,
@@ -177,7 +177,7 @@
   },
   {
     "name": "Honda HONDA PROJECT 2&4 POWERED BY RC213V",
-    "image-src": "images/cars/side/gts_car_123.jpg",
+    "imageSrc": "images/cars/side/gts_car_123.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 211,
@@ -193,7 +193,7 @@
   },
   {
     "name": "Mitsubishi LANCER EVOLUTION FINAL EDITION GR.B RALLY CAR",
-    "image-src": "images/cars/side/gts_car_143.jpg",
+    "imageSrc": "images/cars/side/gts_car_143.jpg",
     "category": "Gr.B",
     "drive": "4WD",
     "power": 522,
@@ -209,7 +209,7 @@
   },
   {
     "name": "Ford FOCUS ST 2015",
-    "image-src": "images/cars/side/gts_car_001.jpg",
+    "imageSrc": "images/cars/side/gts_car_001.jpg",
     "category": "N 300",
     "drive": "FF",
     "power": 250,
@@ -225,7 +225,7 @@
   },
   {
     "name": "Porsche 911 GT3 (997) 2009",
-    "image-src": "images/cars/side/gts_car_255.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_255.jpg?v=1",
     "category": "N 400",
     "drive": "RR",
     "power": 428,
@@ -241,7 +241,7 @@
   },
   {
     "name": "McLaren 650S GT3 2015",
-    "image-src": "images/cars/side/gts_car_034.jpg",
+    "imageSrc": "images/cars/side/gts_car_034.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 507,
@@ -257,7 +257,7 @@
   },
   {
     "name": "Bugatti VEYRON 16.4 2013",
-    "image-src": "images/cars/side/gts_car_092.jpg",
+    "imageSrc": "images/cars/side/gts_car_092.jpg",
     "category": "N1000",
     "drive": "4WD",
     "power": 986,
@@ -273,7 +273,7 @@
   },
   {
     "name": "Mitsubishi LANCER EVOLUTION FINAL EDITION GR.4",
-    "image-src": "images/cars/side/gts_car_141.jpg",
+    "imageSrc": "images/cars/side/gts_car_141.jpg",
     "category": "Gr.4",
     "drive": "4WD",
     "power": 389,
@@ -289,7 +289,7 @@
   },
   {
     "name": "Alfa Romeo MITO 1.4 T SPORT 2009",
-    "image-src": "images/cars/side/gts_car_094.jpg",
+    "imageSrc": "images/cars/side/gts_car_094.jpg",
     "category": "N 200",
     "drive": "FF",
     "power": 153,
@@ -305,7 +305,7 @@
   },
   {
     "name": "Peugeot PEUGEOT VISION GRAN TURISMO GR.3",
-    "image-src": "images/cars/side/gts_car_076.jpg",
+    "imageSrc": "images/cars/side/gts_car_076.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 542,
@@ -321,7 +321,7 @@
   },
   {
     "name": "Toyota GR SUPRA RZ 2020",
-    "image-src": "images/cars/side/gts_car_336.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_336.jpg?v=2",
     "category": "N 400",
     "drive": "FR",
     "power": 383,
@@ -337,7 +337,7 @@
   },
   {
     "name": "Tesla Motors Model S Signature Performance 2012",
-    "image-src": "images/cars/side/gts_car_268.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_268.jpg?v=1",
     "category": "Gr.X",
     "drive": "RR",
     "power": 422,
@@ -353,7 +353,7 @@
   },
   {
     "name": "Mercedes-Benz SLR McLaren 2009",
-    "image-src": "images/cars/side/gts_car_285.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_285.jpg?v=2",
     "category": "N 600",
     "drive": "FR",
     "power": 616,
@@ -369,7 +369,7 @@
   },
   {
     "name": "BMW i3 2015",
-    "image-src": "images/cars/side/gts_car_051.jpg",
+    "imageSrc": "images/cars/side/gts_car_051.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 168,
@@ -385,7 +385,7 @@
   },
   {
     "name": "Aston Martin VI2 VANTAGE GT3 2012",
-    "image-src": "images/cars/side/gts_car_027.jpg",
+    "imageSrc": "images/cars/side/gts_car_027.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 520,
@@ -401,7 +401,7 @@
   },
   {
     "name": "Ford FOCUS GR.B RALLY CAR",
-    "image-src": "images/cars/side/gts_car_006.jpg",
+    "imageSrc": "images/cars/side/gts_car_006.jpg",
     "category": "Gr.B",
     "drive": "4WD",
     "power": 538,
@@ -417,7 +417,7 @@
   },
   {
     "name": "Lexus LF-LC GT VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_150.jpg",
+    "imageSrc": "images/cars/side/gts_car_150.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 612,
@@ -433,7 +433,7 @@
   },
   {
     "name": "Renault Sport CLIO R.S. 220 EDC TROPHY 2016",
-    "image-src": "images/cars/side/gts_car_223.jpg",
+    "imageSrc": "images/cars/side/gts_car_223.jpg",
     "category": "N 200",
     "drive": "FF",
     "power": 217,
@@ -449,7 +449,7 @@
   },
   {
     "name": "Lamborghini AVENTADOR LP 700-4 2011",
-    "image-src": "images/cars/side/gts_car_201.jpg",
+    "imageSrc": "images/cars/side/gts_car_201.jpg",
     "category": "N 700",
     "drive": "4WD",
     "power": 690,
@@ -465,7 +465,7 @@
   },
   {
     "name": "Volkswagen VOLKSWAGEN 1200 1966",
-    "image-src": "images/cars/side/gts_car_241.jpg",
+    "imageSrc": "images/cars/side/gts_car_241.jpg",
     "category": "N 100",
     "drive": "RR",
     "power": 34,
@@ -481,7 +481,7 @@
   },
   {
     "name": "Lamborghini AVENTADOR LP-750 SUPERVELOCE 2015",
-    "image-src": "images/cars/side/gts_car_318.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_318.jpg?v=1",
     "category": "N 800",
     "drive": "4WD",
     "power": 740,
@@ -497,7 +497,7 @@
   },
   {
     "name": "McLaren F1 GTR - BMW (Kokusai Kaihatsu UK Racing) 1995",
-    "image-src": "images/cars/side/gts_car_283.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_283.jpg?v=2",
     "category": "Gr.3",
     "drive": "MR",
     "power": 601,
@@ -513,7 +513,7 @@
   },
   {
     "name": "Peugeot PEUGEOT 908 HDI FAP TEAM PEUGEOT TOTAL 2010",
-    "image-src": "images/cars/side/gts_car_079.jpg",
+    "imageSrc": "images/cars/side/gts_car_079.jpg",
     "category": "Gr.1",
     "drive": "MR",
     "power": 700,
@@ -529,7 +529,7 @@
   },
   {
     "name": "Porsche PORSCHE 919 HYBRID PORSCHE TEAM 2016",
-    "image-src": "images/cars/side/gts_car_067.jpg",
+    "imageSrc": "images/cars/side/gts_car_067.jpg",
     "category": "Gr.1",
     "drive": "4WD",
     "power": 501,
@@ -545,7 +545,7 @@
   },
   {
     "name": "Super Formula DALLARA SF19 SUPER FORMULA/TOYOTA 2019",
-    "image-src": "images/cars/side/gts_car_289.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_289.jpg?v=1",
     "category": "Gr.X",
     "drive": "MR",
     "power": 639,
@@ -561,7 +561,7 @@
   },
   {
     "name": "Lamborghini COUNTACH 25TH ANNIVERSARY 1988",
-    "image-src": "images/cars/side/gts_car_287.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_287.jpg?v=1",
     "category": "N 500",
     "drive": "MR",
     "power": 450,
@@ -577,7 +577,7 @@
   },
   {
     "name": "Renault Sport MEGANE GR.4",
-    "image-src": "images/cars/side/gts_car_070.jpg",
+    "imageSrc": "images/cars/side/gts_car_070.jpg",
     "category": "Gr.4",
     "drive": "FF",
     "power": 350,
@@ -593,7 +593,7 @@
   },
   {
     "name": "Mercedes-Benz AMG VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_049.jpg",
+    "imageSrc": "images/cars/side/gts_car_049.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 577,
@@ -609,7 +609,7 @@
   },
   {
     "name": "McLaren MCLAREN F1 1994",
-    "image-src": "images/cars/side/gts_car_190.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_190.jpg?v=2",
     "category": "N 600",
     "drive": "MR",
     "power": 626,
@@ -625,7 +625,7 @@
   },
   {
     "name": "Alfa Romeo 4C GR.4",
-    "image-src": "images/cars/side/gts_car_096.jpg",
+    "imageSrc": "images/cars/side/gts_car_096.jpg",
     "category": "Gr.4",
     "drive": "MR",
     "power": 296,
@@ -641,7 +641,7 @@
   },
   {
     "name": "Aston Martin ASTON MARTIN DP-100 VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_030.jpg",
+    "imageSrc": "images/cars/side/gts_car_030.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 800,
@@ -657,7 +657,7 @@
   },
   {
     "name": "Renault Sport CLIO V6 24V 2000",
-    "image-src": "images/cars/side/gts_car_297.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_297.jpg?v=1",
     "category": "N 200",
     "drive": "MR",
     "power": 230,
@@ -673,7 +673,7 @@
   },
   {
     "name": "Ford MUSTANG MACH 1 1971",
-    "image-src": "images/cars/side/gts_car_199.jpg",
+    "imageSrc": "images/cars/side/gts_car_199.jpg",
     "category": "N 300",
     "drive": "FR",
     "power": 303,
@@ -689,7 +689,7 @@
   },
   {
     "name": "L",
-    "image-src": "images/cars/side/gts_car_168.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_168.jpg?v=2",
     "category": "Gr.1",
     "drive": "MR",
     "power": 553,
@@ -705,7 +705,7 @@
   },
   {
     "name": "Mercedes-Benz MERCEDES-AMG GT3 AMG-TEAM HTP-MOTORSPORT 2016",
-    "image-src": "images/cars/side/gts_car_048.jpg",
+    "imageSrc": "images/cars/side/gts_car_048.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 613,
@@ -721,7 +721,7 @@
   },
   {
     "name": "BMW BMW M6 GT3 M POWER LIVERY 2016",
-    "image-src": "images/cars/side/gts_car_056.jpg",
+    "imageSrc": "images/cars/side/gts_car_056.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 584,
@@ -737,7 +737,7 @@
   },
   {
     "name": "Ferrari F40 1992",
-    "image-src": "images/cars/side/gts_car_176.jpg",
+    "imageSrc": "images/cars/side/gts_car_176.jpg",
     "category": "N 500",
     "drive": "MR",
     "power": 471,
@@ -753,7 +753,7 @@
   },
   {
     "name": "Daihatsu COPEN ACTIVE TOP 2002",
-    "image-src": "images/cars/side/gts_car_232.jpg",
+    "imageSrc": "images/cars/side/gts_car_232.jpg",
     "category": "N 100",
     "drive": "FF",
     "power": 62,
@@ -769,7 +769,7 @@
   },
   {
     "name": "Mercedes-Benz MERCEDES-AMG F1 W08 EQ POWER+ 2017",
-    "image-src": "images/cars/side/gts_car_237.jpg",
+    "imageSrc": "images/cars/side/gts_car_237.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 899,
@@ -785,7 +785,7 @@
   },
   {
     "name": "Aston Martin DBR9 GT1 2010",
-    "image-src": "images/cars/side/gts_car_335.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_335.jpg?v=1",
     "category": "Gr.3",
     "drive": "FR",
     "power": 600,
@@ -801,7 +801,7 @@
   },
   {
     "name": "Porsche 356 A/1500 GS GT Carrera Speedster 1956",
-    "image-src": "images/cars/side/gts_car_277.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_277.jpg?v=2",
     "category": "N 100",
     "drive": "RR",
     "power": 108,
@@ -817,7 +817,7 @@
   },
   {
     "name": "Porsche 911 TURBO 1981",
-    "image-src": "images/cars/side/gts_car_305.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_305.jpg?v=1",
     "category": "N 300",
     "drive": "RR",
     "power": 296,
@@ -833,7 +833,7 @@
   },
   {
     "name": "Toyota TS050 HYBRID TOYOTA GAZOO RACING 2016",
-    "image-src": "images/cars/side/gts_car_114.jpg",
+    "imageSrc": "images/cars/side/gts_car_114.jpg",
     "category": "Gr.1",
     "drive": "4WD",
     "power": 507,
@@ -849,7 +849,7 @@
   },
   {
     "name": "Subaru WRX STI TYPES 2014",
-    "image-src": "images/cars/side/gts_car_135.jpg",
+    "imageSrc": "images/cars/side/gts_car_135.jpg",
     "category": "N 300",
     "drive": "4WD",
     "power": 303,
@@ -865,7 +865,7 @@
   },
   {
     "name": "Chevrolet CAMARO Z28 1969",
-    "image-src": "images/cars/side/gts_car_298.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_298.jpg?v=1",
     "category": "N 300",
     "drive": "FR",
     "power": 290,
@@ -881,7 +881,7 @@
   },
   {
     "name": "Nissan SKYLINE GT-R V-SPEC II 1994",
-    "image-src": "images/cars/side/gts_car_180.jpg",
+    "imageSrc": "images/cars/side/gts_car_180.jpg",
     "category": "N 300",
     "drive": "4WD",
     "power": 307,
@@ -897,7 +897,7 @@
   },
   {
     "name": "Audi AUDI SPORT QUATTRO S1 PIKES PEAK 1987",
-    "image-src": "images/cars/side/gts_car_060.jpg",
+    "imageSrc": "images/cars/side/gts_car_060.jpg",
     "category": "Gr.B",
     "drive": "4WD",
     "power": 589,
@@ -913,7 +913,7 @@
   },
   {
     "name": "Honda Integra Type R (DC2) 1998",
-    "image-src": "images/cars/side/gts_car_279.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_279.jpg?v=2",
     "category": "N 200",
     "drive": "FF",
     "power": 198,
@@ -929,7 +929,7 @@
   },
   {
     "name": "Chevrolet CORVETTE STINGRAY 2014",
-    "image-src": "images/cars/side/gts_car_008.jpg",
+    "imageSrc": "images/cars/side/gts_car_008.jpg",
     "category": "N 500",
     "drive": "FR",
     "power": 454,
@@ -945,7 +945,7 @@
   },
   {
     "name": "Super Formula DALLARA SF19 SUPER FORMULA/HONDA 2019",
-    "image-src": "images/cars/side/gts_car_290.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_290.jpg?v=1",
     "category": "Gr.X",
     "drive": "MR",
     "power": 639,
@@ -961,7 +961,7 @@
   },
   {
     "name": "Mazda ATENZA SEDAN XD L PACKAGE 2015",
-    "image-src": "images/cars/side/gts_car_130.jpg",
+    "imageSrc": "images/cars/side/gts_car_130.jpg",
     "category": "N 200",
     "drive": "4WD",
     "power": 173,
@@ -977,7 +977,7 @@
   },
   {
     "name": "Honda S800 1966",
-    "image-src": "images/cars/side/gts_car_301.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_301.jpg?v=1",
     "category": "N 100",
     "drive": "FR",
     "power": 68,
@@ -993,7 +993,7 @@
   },
   {
     "name": "Mitsubishi CONCEPT XR-PHEV EVOLUTION VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_144.jpg",
+    "imageSrc": "images/cars/side/gts_car_144.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 503,
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "Chaparral CHEVROLET CHAPARRAL 2X VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_020.jpg",
+    "imageSrc": "images/cars/side/gts_car_020.jpg",
     "category": "Gr.X",
     "drive": "??",
     "power": 905,
@@ -1025,7 +1025,7 @@
   },
   {
     "name": "Hyundai GENESIS GR.B RALLY CAR",
-    "image-src": "images/cars/side/gts_car_154.jpg",
+    "imageSrc": "images/cars/side/gts_car_154.jpg",
     "category": "Gr.B",
     "drive": "4WD",
     "power": 500,
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "Mazda RX-7 SPIRIT R TYPE A 2002",
-    "image-src": "images/cars/side/gts_car_179.jpg",
+    "imageSrc": "images/cars/side/gts_car_179.jpg",
     "category": "N 300",
     "drive": "FR",
     "power": 293,
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "Dodge VIPER GTS 2002",
-    "image-src": "images/cars/side/gts_car_184.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_184.jpg?v=2",
     "category": "N 500",
     "drive": "FR",
     "power": 449,
@@ -1073,7 +1073,7 @@
   },
   {
     "name": "Chevrolet CORVETTE STINGRAY RACER CONCEPT 1959",
-    "image-src": "images/cars/side/gts_car_311.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_311.jpg?v=1",
     "category": "Gr.X",
     "drive": "FR",
     "power": 315,
@@ -1089,7 +1089,7 @@
   },
   {
     "name": "Toyota FT-1 2014",
-    "image-src": "images/cars/side/gts_car_192.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_192.jpg?v=2",
     "category": "Gr.X",
     "drive": "FR",
     "power": 486,
@@ -1105,7 +1105,7 @@
   },
   {
     "name": "Porsche 911 CARRERA RS CLUB SPORT 1995",
-    "image-src": "images/cars/side/gts_car_328.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_328.jpg?v=1",
     "category": "N 300",
     "drive": "RR",
     "power": 296,
@@ -1121,7 +1121,7 @@
   },
   {
     "name": "Lexus RCF GR.4",
-    "image-src": "images/cars/side/gts_car_148.jpg",
+    "imageSrc": "images/cars/side/gts_car_148.jpg",
     "category": "Gr.4",
     "drive": "FR",
     "power": 419,
@@ -1137,7 +1137,7 @@
   },
   {
     "name": "Mazda LM55 VISION GRAN TURISMO GR.1",
-    "image-src": "images/cars/side/gts_car_133.jpg",
+    "imageSrc": "images/cars/side/gts_car_133.jpg",
     "category": "Gr.1",
     "drive": "4WD",
     "power": 641,
@@ -1153,7 +1153,7 @@
   },
   {
     "name": "1965 Shelby G.T.350 1965",
-    "image-src": "images/cars/side/gts_car_273.jpg?v=4",
+    "imageSrc": "images/cars/side/gts_car_273.jpg?v=4",
     "category": "N 300",
     "drive": "FR",
     "power": 305,
@@ -1169,7 +1169,7 @@
   },
   {
     "name": "Dodge SRT TOMAHAWK VISION GRAN TURISMO TECHNOLOGY",
-    "image-src": "images/cars/side/gts_car_016.jpg",
+    "imageSrc": "images/cars/side/gts_car_016.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 2.586,
@@ -1185,7 +1185,7 @@
   },
   {
     "name": "Nissan GT-R LM NISMO 2015",
-    "image-src": "images/cars/side/gts_car_120.jpg",
+    "imageSrc": "images/cars/side/gts_car_120.jpg",
     "category": "Gr.1",
     "drive": "FF",
     "power": 604,
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "Subaru WRX STI ISLE OF MAN TIME ATTACK CAR 2016",
-    "image-src": "images/cars/side/gts_car_202.jpg",
+    "imageSrc": "images/cars/side/gts_car_202.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 579,
@@ -1217,7 +1217,7 @@
   },
   {
     "name": "Hyundai GENESIS GR.3",
-    "image-src": "images/cars/side/gts_car_153.jpg",
+    "imageSrc": "images/cars/side/gts_car_153.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 510,
@@ -1233,7 +1233,7 @@
   },
   {
     "name": "Jaguar XJR-9 1988",
-    "image-src": "images/cars/side/gts_car_222.jpg",
+    "imageSrc": "images/cars/side/gts_car_222.jpg",
     "category": "Gr.1",
     "drive": "MR",
     "power": 914,
@@ -1249,7 +1249,7 @@
   },
   {
     "name": "Mazda DEMIO XD TOURING 2015",
-    "image-src": "images/cars/side/gts_car_317.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_317.jpg?v=1",
     "category": "N 100",
     "drive": "FF",
     "power": 104,
@@ -1265,7 +1265,7 @@
   },
   {
     "name": "Peugeot RCZ Gr.3 Road Car (N500)",
-    "image-src": "images/cars/side/gts_car_167.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_167.jpg?v=1",
     "category": "N 500",
     "drive": "MR",
     "power": 469,
@@ -1281,7 +1281,7 @@
   },
   {
     "name": "Mazda RX VISION GT3",
-    "image-src": "images/cars/side/gts_car_337.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_337.jpg?v=1",
     "category": "Gr.3",
     "drive": "??",
     "power": 562,
@@ -1297,7 +1297,7 @@
   },
   {
     "name": "Toyota SPORTS 800 1965",
-    "image-src": "images/cars/side/gts_car_300.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_300.jpg?v=1",
     "category": "N 100",
     "drive": "FR",
     "power": 43,
@@ -1313,7 +1313,7 @@
   },
   {
     "name": "Nissan NISSAN CONCEPT 2020 VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_121.jpg",
+    "imageSrc": "images/cars/side/gts_car_121.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 697,
@@ -1329,7 +1329,7 @@
   },
   {
     "name": "Nissan XANAVI NISMO GT-R 2008",
-    "image-src": "images/cars/side/gts_car_262.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_262.jpg?v=1",
     "category": "Gr.2",
     "drive": "FR",
     "power": 494,
@@ -1345,7 +1345,7 @@
   },
   {
     "name": "Audi AUDI VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_219.jpg",
+    "imageSrc": "images/cars/side/gts_car_219.jpg",
     "category": "Gr.1",
     "drive": "4WD",
     "power": 735,
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Lamborghini HURACAN GR.4",
-    "image-src": "images/cars/side/gts_car_103.jpg",
+    "imageSrc": "images/cars/side/gts_car_103.jpg",
     "category": "Gr.4",
     "drive": "4WD",
     "power": 404,
@@ -1377,7 +1377,7 @@
   },
   {
     "name": "Nissan GT-R GR.4",
-    "image-src": "images/cars/side/gts_car_117.jpg",
+    "imageSrc": "images/cars/side/gts_car_117.jpg",
     "category": "Gr.4",
     "drive": "4WD",
     "power": 429,
@@ -1393,7 +1393,7 @@
   },
   {
     "name": "Toyota FT-1 VISION GRAN TURISMO GR.3",
-    "image-src": "images/cars/side/gts_car_111.jpg",
+    "imageSrc": "images/cars/side/gts_car_111.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 544,
@@ -1409,7 +1409,7 @@
   },
   {
     "name": "Lamborghini DIABLO GT 2000",
-    "image-src": "images/cars/side/gts_car_189.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_189.jpg?v=2",
     "category": "N 600",
     "drive": "MR",
     "power": 572,
@@ -1425,7 +1425,7 @@
   },
   {
     "name": "Dodge CHALLENGER R/T 1970",
-    "image-src": "images/cars/side/gts_car_198.jpg",
+    "imageSrc": "images/cars/side/gts_car_198.jpg",
     "category": "N 400",
     "drive": "FR",
     "power": 425,
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Nissan GT-R NISMO GT3 N24 SCHULZE MOTORSPORT 2013",
-    "image-src": "images/cars/side/gts_car_118.jpg",
+    "imageSrc": "images/cars/side/gts_car_118.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 542,
@@ -1457,7 +1457,7 @@
   },
   {
     "name": "Alfa Romeo 4C LAUNCH EDITION 2014",
-    "image-src": "images/cars/side/gts_car_095.jpg",
+    "imageSrc": "images/cars/side/gts_car_095.jpg",
     "category": "N 200",
     "drive": "MR",
     "power": 236,
@@ -1473,7 +1473,7 @@
   },
   {
     "name": "Honda NSX GR.B RALLY CAR",
-    "image-src": "images/cars/side/gts_car_127.jpg",
+    "imageSrc": "images/cars/side/gts_car_127.jpg",
     "category": "Gr.B",
     "drive": "4WD",
     "power": 557,
@@ -1489,7 +1489,7 @@
   },
   {
     "name": "Audi TT COUPE 3.2 QUATTRO 2003",
-    "image-src": "images/cars/side/gts_car_291.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_291.jpg?v=1",
     "category": "N 200",
     "drive": "4WD",
     "power": 240,
@@ -1505,7 +1505,7 @@
   },
   {
     "name": "Aston Martin V8 VANTAGE S 2015",
-    "image-src": "images/cars/side/gts_car_025.jpg",
+    "imageSrc": "images/cars/side/gts_car_025.jpg",
     "category": "N 400",
     "drive": "FR",
     "power": 430,
@@ -1521,7 +1521,7 @@
   },
   {
     "name": "Nissan Fairlady Z Version S (Z33) 2007",
-    "image-src": "images/cars/side/gts_car_280.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_280.jpg?v=2",
     "category": "N 300",
     "drive": "FR",
     "power": 311,
@@ -1537,7 +1537,7 @@
   },
   {
     "name": "Mercedes-Benz AMG Vision Gran Turismo LH Edition",
-    "image-src": "images/cars/side/gts_car_324.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_324.jpg?v=1",
     "category": "Gr.X",
     "drive": "FR",
     "power": 590,
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Ford MUSTANG GR.4",
-    "image-src": "images/cars/side/gts_car_003.jpg",
+    "imageSrc": "images/cars/side/gts_car_003.jpg",
     "category": "Gr.4",
     "drive": "FR",
     "power": 395,
@@ -1569,7 +1569,7 @@
   },
   {
     "name": "Toyota MR2 GT-S 1997",
-    "image-src": "images/cars/side/gts_car_205.jpg",
+    "imageSrc": "images/cars/side/gts_car_205.jpg",
     "category": "N 200",
     "drive": "MR",
     "power": 244,
@@ -1585,7 +1585,7 @@
   },
   {
     "name": "Mercedes-Benz SAUBER MERCEDES C9 1989",
-    "image-src": "images/cars/side/gts_car_227.jpg",
+    "imageSrc": "images/cars/side/gts_car_227.jpg",
     "category": "Gr.1",
     "drive": "MR",
     "power": 927,
@@ -1601,7 +1601,7 @@
   },
   {
     "name": "Audi R18 Audi Sport Team Joest 2016",
-    "image-src": "images/cars/side/gts_car_170.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_170.jpg?v=1",
     "category": "Gr.1",
     "drive": "MR",
     "power": 527,
@@ -1617,7 +1617,7 @@
   },
   {
     "name": "Mazda RX-7 GT-X 1990",
-    "image-src": "images/cars/side/gts_car_215.jpg",
+    "imageSrc": "images/cars/side/gts_car_215.jpg",
     "category": "N 200",
     "drive": "FR",
     "power": 203,
@@ -1633,7 +1633,7 @@
   },
   {
     "name": "Volkswagen SCIROCCO GR.4",
-    "image-src": "images/cars/side/gts_car_038.jpg",
+    "imageSrc": "images/cars/side/gts_car_038.jpg",
     "category": "Gr.4",
     "drive": "FF",
     "power": 359,
@@ -1649,7 +1649,7 @@
   },
   {
     "name": "BMW BMW Z8 2001",
-    "image-src": "images/cars/side/gts_car_275.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_275.jpg?v=2",
     "category": "N 400",
     "drive": "FR",
     "power": 396,
@@ -1665,7 +1665,7 @@
   },
   {
     "name": "Renault Sport CLIO R.S. 220 EDC TROPHY 2015",
-    "image-src": "images/cars/side/gts_car_068.jpg",
+    "imageSrc": "images/cars/side/gts_car_068.jpg",
     "category": "N 200",
     "drive": "FF",
     "power": 217,
@@ -1681,7 +1681,7 @@
   },
   {
     "name": "BMW M3 Coupe 2007",
-    "image-src": "images/cars/side/gts_car_269.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_269.jpg?v=1",
     "category": "N 400",
     "drive": "FR",
     "power": 415,
@@ -1697,7 +1697,7 @@
   },
   {
     "name": "Jaguar E-type Coupé 1961",
-    "image-src": "images/cars/side/gts_car_263.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_263.jpg?v=2",
     "category": "N 300",
     "drive": "FR",
     "power": 264,
@@ -1713,7 +1713,7 @@
   },
   {
     "name": "MINI MINI-COOPER'S' 1965",
-    "image-src": "images/cars/side/gts_car_242.jpg",
+    "imageSrc": "images/cars/side/gts_car_242.jpg",
     "category": "N 100",
     "drive": "FF",
     "power": 64,
@@ -1729,7 +1729,7 @@
   },
   {
     "name": "Honda FIT HYBRID 2014",
-    "image-src": "images/cars/side/gts_car_292.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_292.jpg?v=2",
     "category": "N 100",
     "drive": "FF",
     "power": 138,
@@ -1745,7 +1745,7 @@
   },
   {
     "name": "Subaru WRX GR.B RALLY CAR",
-    "image-src": "images/cars/side/gts_car_138.jpg",
+    "imageSrc": "images/cars/side/gts_car_138.jpg",
     "category": "Gr.B",
     "drive": "4WD",
     "power": 522,
@@ -1761,7 +1761,7 @@
   },
   {
     "name": "Dodge SRT TOMAHAWK VISION GRAN TURISMO STREET",
-    "image-src": "images/cars/side/gts_car_018.jpg",
+    "imageSrc": "images/cars/side/gts_car_018.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 1.007,
@@ -1777,7 +1777,7 @@
   },
   {
     "name": "Ford MUSTANG Gr.3 ROAD CAR",
-    "image-src": "images/cars/side/gts_car_160.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_160.jpg?v=2",
     "category": "N 500",
     "drive": "FR",
     "power": 503,
@@ -1793,7 +1793,7 @@
   },
   {
     "name": "Lancia STRATOS 1973",
-    "image-src": "images/cars/side/gts_car_288.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_288.jpg?v=1",
     "category": "N 200",
     "drive": "MR",
     "power": 185,
@@ -1809,7 +1809,7 @@
   },
   {
     "name": "Jaguar F-TYPE GR.4",
-    "image-src": "images/cars/side/gts_car_023.jpg",
+    "imageSrc": "images/cars/side/gts_car_023.jpg",
     "category": "Gr.4",
     "drive": "FR",
     "power": 399,
@@ -1825,7 +1825,7 @@
   },
   {
     "name": "BMW BMW M4 COUPE 2014",
-    "image-src": "images/cars/side/gts_car_052.jpg",
+    "imageSrc": "images/cars/side/gts_car_052.jpg",
     "category": "N 400",
     "drive": "FR",
     "power": 425,
@@ -1841,7 +1841,7 @@
   },
   {
     "name": "Mazda ROADSTER TOURING CAR",
-    "image-src": "images/cars/side/gts_car_304.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_304.jpg?v=1",
     "category": "N 200",
     "drive": "FR",
     "power": 205,
@@ -1857,7 +1857,7 @@
   },
   {
     "name": "Mitsubishi LANCER EVOLUTION IV GSR 1996",
-    "image-src": "images/cars/side/gts_car_230.jpg",
+    "imageSrc": "images/cars/side/gts_car_230.jpg",
     "category": "N 300",
     "drive": "4WD",
     "power": 273,
@@ -1873,7 +1873,7 @@
   },
   {
     "name": "Ferrari 330 P4 1967",
-    "image-src": "images/cars/side/gts_car_185.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_185.jpg?v=2",
     "category": "Gr.X",
     "drive": "MR",
     "power": 449,
@@ -1889,7 +1889,7 @@
   },
   {
     "name": "Renault Sport R.S.01 2016",
-    "image-src": "images/cars/side/gts_car_072.jpg",
+    "imageSrc": "images/cars/side/gts_car_072.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 542,
@@ -1905,7 +1905,7 @@
   },
   {
     "name": "Peugeot PEUGEOT L500R HYBRID VISION GRAN TURISMO 2017",
-    "image-src": "images/cars/side/gts_car_082.jpg",
+    "imageSrc": "images/cars/side/gts_car_082.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 268,
@@ -1921,7 +1921,7 @@
   },
   {
     "name": "Alpine ALPINE VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_088.jpg",
+    "imageSrc": "images/cars/side/gts_car_088.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 444,
@@ -1937,7 +1937,7 @@
   },
   {
     "name": "Mitsubishi GTO TWIN TURBO 1991",
-    "image-src": "images/cars/side/gts_car_307.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_307.jpg?v=1",
     "category": "N 300",
     "drive": "4WD",
     "power": 285,
@@ -1953,7 +1953,7 @@
   },
   {
     "name": "Alfa Romeo 4C Gr.3 Road Car",
-    "image-src": "images/cars/side/gts_car_157.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_157.jpg?v=1",
     "category": "N 500",
     "drive": "MR",
     "power": 444,
@@ -1969,7 +1969,7 @@
   },
   {
     "name": "Honda HONDA SPORTS VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_128.jpg",
+    "imageSrc": "images/cars/side/gts_car_128.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 403,
@@ -1985,7 +1985,7 @@
   },
   {
     "name": "Plymouth XNR Ghia Roadster 1960",
-    "image-src": "images/cars/side/gts_car_254.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_254.jpg?v=1",
     "category": "N 300",
     "drive": "FR",
     "power": 251,
@@ -2001,7 +2001,7 @@
   },
   {
     "name": "Abarth 1500 BIPOSTO BERTONE B.A.T 1 1952",
-    "image-src": "images/cars/side/gts_car_244.jpg",
+    "imageSrc": "images/cars/side/gts_car_244.jpg",
     "category": "N 100",
     "drive": "FR",
     "power": 74,
@@ -2017,7 +2017,7 @@
   },
   {
     "name": "Nissan GT-R PREMIUM EDITION 2017",
-    "image-src": "images/cars/side/gts_car_116.jpg",
+    "imageSrc": "images/cars/side/gts_car_116.jpg",
     "category": "N 600",
     "drive": "4WD",
     "power": 564,
@@ -2033,7 +2033,7 @@
   },
   {
     "name": "Toyota SPRINTER TRUENO 3DOOR 1600GT APEX (AE86) 1983",
-    "image-src": "images/cars/side/gts_car_295.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_295.jpg?v=1",
     "category": "N 100",
     "drive": "FR",
     "power": 127,
@@ -2049,7 +2049,7 @@
   },
   {
     "name": "Gran Turismo AMUSE S2000 GT1 TURBO Car Concept by GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_246.jpg",
+    "imageSrc": "images/cars/side/gts_car_246.jpg",
     "category": "N 600",
     "drive": "FR",
     "power": 616,
@@ -2065,7 +2065,7 @@
   },
   {
     "name": "Toyota SUPRA RZ 1997",
-    "image-src": "images/cars/side/gts_car_193.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_193.jpg?v=2",
     "category": "N 300",
     "drive": "FR",
     "power": 325,
@@ -2081,7 +2081,7 @@
   },
   {
     "name": "Citroen GT BY CITROEN ROAD CAR",
-    "image-src": "images/cars/side/gts_car_084.jpg",
+    "imageSrc": "images/cars/side/gts_car_084.jpg",
     "category": "N 500",
     "drive": "MR",
     "power": 501,
@@ -2097,7 +2097,7 @@
   },
   {
     "name": "Volkswagen SAMBABUS TYP2 1962",
-    "image-src": "images/cars/side/gts_car_178.jpg",
+    "imageSrc": "images/cars/side/gts_car_178.jpg",
     "category": "N 100",
     "drive": "RR",
     "power": 34,
@@ -2113,7 +2113,7 @@
   },
   {
     "name": "Mazda ATENZA Gr.3 ROAD CAR",
-    "image-src": "images/cars/side/gts_car_162.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_162.jpg?v=1",
     "category": "N 500",
     "drive": "FR",
     "power": 483,
@@ -2129,7 +2129,7 @@
   },
   {
     "name": "Subaru WRX GR.B ROAD CAR",
-    "image-src": "images/cars/side/gts_car_166.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_166.jpg?v=1",
     "category": "N 500",
     "drive": "4WD",
     "power": 473,
@@ -2145,7 +2145,7 @@
   },
   {
     "name": "Lamborghini COUNTACH LP400 1974",
-    "image-src": "images/cars/side/gts_car_175.jpg",
+    "imageSrc": "images/cars/side/gts_car_175.jpg",
     "category": "N 400",
     "drive": "MR",
     "power": 374,
@@ -2161,7 +2161,7 @@
   },
   {
     "name": "Dodge SRT TOMAHAWK VISION GRAN TURISMO RACING",
-    "image-src": "images/cars/side/gts_car_017.jpg",
+    "imageSrc": "images/cars/side/gts_car_017.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 1.449,
@@ -2177,7 +2177,7 @@
   },
   {
     "name": "Peugeot RCZ GT LINE 2015",
-    "image-src": "images/cars/side/gts_car_074.jpg",
+    "imageSrc": "images/cars/side/gts_car_074.jpg",
     "category": "N 200",
     "drive": "FF",
     "power": 153,
@@ -2193,7 +2193,7 @@
   },
   {
     "name": "L",
-    "image-src": "images/cars/side/gts_car_161.jpg?v=4",
+    "imageSrc": "images/cars/side/gts_car_161.jpg?v=4",
     "category": "Gr.X",
     "drive": "MR",
     "power": 49,
@@ -2209,7 +2209,7 @@
   },
   {
     "name": "Ferrari 458 ITALIA GT3 2013",
-    "image-src": "images/cars/side/gts_car_100.jpg",
+    "imageSrc": "images/cars/side/gts_car_100.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 542,
@@ -2225,7 +2225,7 @@
   },
   {
     "name": "Mazda ATENZA GR.3",
-    "image-src": "images/cars/side/gts_car_132.jpg",
+    "imageSrc": "images/cars/side/gts_car_132.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 567,
@@ -2241,7 +2241,7 @@
   },
   {
     "name": "Audi R8 4.2 FSI R TRONIC 2007",
-    "image-src": "images/cars/side/gts_car_196.jpg",
+    "imageSrc": "images/cars/side/gts_car_196.jpg",
     "category": "N 400",
     "drive": "4WD",
     "power": 414,
@@ -2257,7 +2257,7 @@
   },
   {
     "name": "Honda NSX GR.3",
-    "image-src": "images/cars/side/gts_car_126.jpg",
+    "imageSrc": "images/cars/side/gts_car_126.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 568,
@@ -2273,7 +2273,7 @@
   },
   {
     "name": "BMW M3 GT BMW Motorsport 2011",
-    "image-src": "images/cars/side/gts_car_248.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_248.jpg?v=1",
     "category": "Gr.3",
     "drive": "FR",
     "power": 500,
@@ -2289,7 +2289,7 @@
   },
   {
     "name": "Peugeot PEUGEOT VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_081.jpg",
+    "imageSrc": "images/cars/side/gts_car_081.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 874,
@@ -2305,7 +2305,7 @@
   },
   {
     "name": "Renault Sport R.S.01 GT3 2016",
-    "image-src": "images/cars/side/gts_car_071.jpg",
+    "imageSrc": "images/cars/side/gts_car_071.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 534,
@@ -2321,7 +2321,7 @@
   },
   {
     "name": "Peugeot RCZ GR.4",
-    "image-src": "images/cars/side/gts_car_075.jpg",
+    "imageSrc": "images/cars/side/gts_car_075.jpg",
     "category": "Gr.4",
     "drive": "FF",
     "power": 345,
@@ -2337,7 +2337,7 @@
   },
   {
     "name": "Toyota 2000GT 1967",
-    "image-src": "images/cars/side/gts_car_191.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_191.jpg?v=2",
     "category": "N 200",
     "drive": "FR",
     "power": 154,
@@ -2353,7 +2353,7 @@
   },
   {
     "name": "Subaru FALKEN TIRE/ TURN 14 DISTRIBUTION BRZ 2017",
-    "image-src": "images/cars/side/gts_car_203.jpg",
+    "imageSrc": "images/cars/side/gts_car_203.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 1.037,
@@ -2369,7 +2369,7 @@
   },
   {
     "name": "Ford FORD GT 2006",
-    "image-src": "images/cars/side/gts_car_187.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_187.jpg?v=2",
     "category": "N 600",
     "drive": "MR",
     "power": 550,
@@ -2385,7 +2385,7 @@
   },
   {
     "name": "Lexus RCF GT3 PROTOTYPE EMIL FREY RACING 2016",
-    "image-src": "images/cars/side/gts_car_149.jpg",
+    "imageSrc": "images/cars/side/gts_car_149.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 522,
@@ -2401,7 +2401,7 @@
   },
   {
     "name": "Pagani Zonda R 2009",
-    "image-src": "images/cars/side/gts_car_259.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_259.jpg?v=1",
     "category": "Gr.X",
     "drive": "MR",
     "power": 738,
@@ -2417,7 +2417,7 @@
   },
   {
     "name": "BMW M3 COUPE 2003",
-    "image-src": "images/cars/side/gts_car_322.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_322.jpg?v=1",
     "category": "N 300",
     "drive": "FR",
     "power": 339,
@@ -2433,7 +2433,7 @@
   },
   {
     "name": "Mercedes-Benz SLS AMG GR.4",
-    "image-src": "images/cars/side/gts_car_046.jpg",
+    "imageSrc": "images/cars/side/gts_car_046.jpg",
     "category": "Gr.4",
     "drive": "FR",
     "power": 419,
@@ -2449,7 +2449,7 @@
   },
   {
     "name": "Honda NSX Type R 1992",
-    "image-src": "images/cars/side/gts_car_251.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_251.jpg?v=1",
     "category": "N 300",
     "drive": "MR",
     "power": 284,
@@ -2465,7 +2465,7 @@
   },
   {
     "name": "BMW BMW Z4 GT3 2011",
-    "image-src": "images/cars/side/gts_car_054.jpg",
+    "imageSrc": "images/cars/side/gts_car_054.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 509,
@@ -2481,7 +2481,7 @@
   },
   {
     "name": "Audi TTS COUPE 2014",
-    "image-src": "images/cars/side/gts_car_058.jpg",
+    "imageSrc": "images/cars/side/gts_car_058.jpg",
     "category": "N 300",
     "drive": "4WD",
     "power": 306,
@@ -2497,7 +2497,7 @@
   },
   {
     "name": "Shelby COBRA DAYTONA COUPE 1964",
-    "image-src": "images/cars/side/gts_car_240.jpg",
+    "imageSrc": "images/cars/side/gts_car_240.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 385,
@@ -2513,7 +2513,7 @@
   },
   {
     "name": "Citroen GT BY CITROEN RACE CAR GR.3",
-    "image-src": "images/cars/side/gts_car_086.jpg",
+    "imageSrc": "images/cars/side/gts_car_086.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 599,
@@ -2529,7 +2529,7 @@
   },
   {
     "name": "Jaguar D-TYPE 1954",
-    "image-src": "images/cars/side/gts_car_303.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_303.jpg?v=2",
     "category": "Gr.X",
     "drive": "FR",
     "power": 250,
@@ -2545,7 +2545,7 @@
   },
   {
     "name": "Toyota 86 GR.B RALLY CAR",
-    "image-src": "images/cars/side/gts_car_112.jpg",
+    "imageSrc": "images/cars/side/gts_car_112.jpg",
     "category": "Gr.B",
     "drive": "4WD",
     "power": 517,
@@ -2561,7 +2561,7 @@
   },
   {
     "name": "Honda S660 2015",
-    "image-src": "images/cars/side/gts_car_234.jpg",
+    "imageSrc": "images/cars/side/gts_car_234.jpg",
     "category": "N 100",
     "drive": "MR",
     "power": 63,
@@ -2577,7 +2577,7 @@
   },
   {
     "name": "Citroen DS3 RACING 2011",
-    "image-src": "images/cars/side/gts_car_083.jpg",
+    "imageSrc": "images/cars/side/gts_car_083.jpg",
     "category": "N 200",
     "drive": "FF",
     "power": 203,
@@ -2593,7 +2593,7 @@
   },
   {
     "name": "Toyota CROWN ATHLETE G SAFETY CAR",
-    "image-src": "images/cars/side/gts_car_331.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_331.jpg?v=1",
     "category": "Gr.X",
     "drive": "FR",
     "power": 310,
@@ -2609,7 +2609,7 @@
   },
   {
     "name": "Porsche 911 RSR 2017",
-    "image-src": "images/cars/side/gts_car_066.jpg",
+    "imageSrc": "images/cars/side/gts_car_066.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 510,
@@ -2625,7 +2625,7 @@
   },
   {
     "name": "Gran Turismo CHRIS HOLSTROM CONCEPTS 1967 CHEVY NOVA",
-    "image-src": "images/cars/side/gts_car_183.jpg",
+    "imageSrc": "images/cars/side/gts_car_183.jpg",
     "category": "N 700",
     "drive": "FR",
     "power": 733,
@@ -2641,7 +2641,7 @@
   },
   {
     "name": "Volkswagen GOLF VII GTI 2014",
-    "image-src": "images/cars/side/gts_car_037.jpg",
+    "imageSrc": "images/cars/side/gts_car_037.jpg",
     "category": "N 200",
     "drive": "FF",
     "power": 217,
@@ -2657,7 +2657,7 @@
   },
   {
     "name": "Gran Turismo F1500T-A",
-    "image-src": "images/cars/side/gts_car_200.jpg",
+    "imageSrc": "images/cars/side/gts_car_200.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 986,
@@ -2673,7 +2673,7 @@
   },
   {
     "name": "Porsche TAYCAN TURBO S 2019",
-    "image-src": "images/cars/side/gts_car_315.jpg?v=3",
+    "imageSrc": "images/cars/side/gts_car_315.jpg?v=3",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 752,
@@ -2689,7 +2689,7 @@
   },
   {
     "name": "Chevrolet CORVETTE C7 Gr.3 ROAD CAR",
-    "image-src": "images/cars/side/gts_car_159.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_159.jpg?v=1",
     "category": "N 500",
     "drive": "FR",
     "power": 493,
@@ -2705,7 +2705,7 @@
   },
   {
     "name": "Toyota 86 GRMN 2016",
-    "image-src": "images/cars/side/gts_car_108.jpg",
+    "imageSrc": "images/cars/side/gts_car_108.jpg",
     "category": "N 200",
     "drive": "FR",
     "power": 212,
@@ -2721,7 +2721,7 @@
   },
   {
     "name": "Ford GT 2017",
-    "image-src": "images/cars/side/gts_car_327.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_327.jpg?v=1",
     "category": "N 700",
     "drive": "MR",
     "power": 647,
@@ -2737,7 +2737,7 @@
   },
   {
     "name": "Citroen GT BY CITROEN GR.4",
-    "image-src": "images/cars/side/gts_car_085.jpg",
+    "imageSrc": "images/cars/side/gts_car_085.jpg",
     "category": "Gr.4",
     "drive": "MR",
     "power": 394,
@@ -2753,7 +2753,7 @@
   },
   {
     "name": "Mitsubishi LANCER EVOLUTION FINAL EDITION 2015",
-    "image-src": "images/cars/side/gts_car_140.jpg",
+    "imageSrc": "images/cars/side/gts_car_140.jpg",
     "category": "N 300",
     "drive": "4WD",
     "power": 310,
@@ -2769,7 +2769,7 @@
   },
   {
     "name": "Mazda MAZDA 787B 1991",
-    "image-src": "images/cars/side/gts_car_235.jpg",
+    "imageSrc": "images/cars/side/gts_car_235.jpg",
     "category": "Gr.1",
     "drive": "MR",
     "power": 791,
@@ -2785,7 +2785,7 @@
   },
   {
     "name": "Audi AUDI E-TRON VISION GRAN TURISM0",
-    "image-src": "images/cars/side/gts_car_220.jpg",
+    "imageSrc": "images/cars/side/gts_car_220.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 804,
@@ -2801,7 +2801,7 @@
   },
   {
     "name": "Honda CIVIC TYPE R 1998",
-    "image-src": "images/cars/side/gts_car_302.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_302.jpg?v=1",
     "category": "N 200",
     "drive": "FF",
     "power": 181,
@@ -2817,7 +2817,7 @@
   },
   {
     "name": "Pontiac Firebird Trans Am 1978",
-    "image-src": "images/cars/side/gts_car_267.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_267.jpg?v=1",
     "category": "N 200",
     "drive": "FR",
     "power": 220,
@@ -2833,7 +2833,7 @@
   },
   {
     "name": "McLaren 650S COUPE 2014",
-    "image-src": "images/cars/side/gts_car_032.jpg",
+    "imageSrc": "images/cars/side/gts_car_032.jpg",
     "category": "N 700",
     "drive": "MR",
     "power": 641,
@@ -2849,7 +2849,7 @@
   },
   {
     "name": "Peugeot 208 GTI BY PEUGEOT SPORT 2014",
-    "image-src": "images/cars/side/gts_car_073.jpg",
+    "imageSrc": "images/cars/side/gts_car_073.jpg",
     "category": "N 200",
     "drive": "FF",
     "power": 204,
@@ -2865,7 +2865,7 @@
   },
   {
     "name": "Mitsubishi LANCER EVOLUTION FINAL EDITION GR.B ROAD CAR",
-    "image-src": "images/cars/side/gts_car_164.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_164.jpg?v=1",
     "category": "N 500",
     "drive": "4WD",
     "power": 473,
@@ -2881,7 +2881,7 @@
   },
   {
     "name": "Jaguar VISION GRAN TURISMO COUPE",
-    "image-src": "images/cars/side/gts_car_319.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_319.jpg?v=1",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 1.005,
@@ -2897,7 +2897,7 @@
   },
   {
     "name": "Ferrari ENZO FERRARI 2002",
-    "image-src": "images/cars/side/gts_car_177.jpg",
+    "imageSrc": "images/cars/side/gts_car_177.jpg",
     "category": "N 700",
     "drive": "MR",
     "power": 659,
@@ -2913,7 +2913,7 @@
   },
   {
     "name": "Honda S2000 1999",
-    "image-src": "images/cars/side/gts_car_310.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_310.jpg?v=1",
     "category": "N 200",
     "drive": "FR",
     "power": 243,
@@ -2929,7 +2929,7 @@
   },
   {
     "name": "Pagani Huayra 2013",
-    "image-src": "images/cars/side/gts_car_284.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_284.jpg?v=2",
     "category": "N 700",
     "drive": "MR",
     "power": 731,
@@ -2945,7 +2945,7 @@
   },
   {
     "name": "Nissan 180SX TYPE X 1996",
-    "image-src": "images/cars/side/gts_car_333.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_333.jpg?v=1",
     "category": "N 200",
     "drive": "FR",
     "power": 206,
@@ -2961,7 +2961,7 @@
   },
   {
     "name": "Hyundai HYUNDAI N 2025 VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_156.jpg",
+    "imageSrc": "images/cars/side/gts_car_156.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 871,
@@ -2977,7 +2977,7 @@
   },
   {
     "name": "Alpine A110 1600S 1972",
-    "image-src": "images/cars/side/gts_car_195.jpg",
+    "imageSrc": "images/cars/side/gts_car_195.jpg",
     "category": "N 100",
     "drive": "RR",
     "power": 138,
@@ -2993,7 +2993,7 @@
   },
   {
     "name": "Chevrolet CAMARO SS 2016",
-    "image-src": "images/cars/side/gts_car_007.jpg",
+    "imageSrc": "images/cars/side/gts_car_007.jpg",
     "category": "N 500",
     "drive": "FR",
     "power": 454,
@@ -3009,7 +3009,7 @@
   },
   {
     "name": "Volkswagen GTI SUPERSPORT VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_042.jpg",
+    "imageSrc": "images/cars/side/gts_car_042.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 551,
@@ -3025,7 +3025,7 @@
   },
   {
     "name": "Abarth 500 2009",
-    "image-src": "images/cars/side/gts_car_243.jpg",
+    "imageSrc": "images/cars/side/gts_car_243.jpg",
     "category": "N 100",
     "drive": "FF",
     "power": 133,
@@ -3041,7 +3041,7 @@
   },
   {
     "name": "Alfa Romeo 4C GR.3",
-    "image-src": "images/cars/side/gts_car_097.jpg",
+    "imageSrc": "images/cars/side/gts_car_097.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 495,
@@ -3057,7 +3057,7 @@
   },
   {
     "name": "Aston Martin DB11 2016",
-    "image-src": "images/cars/side/gts_car_207.jpg",
+    "imageSrc": "images/cars/side/gts_car_207.jpg",
     "category": "N 600",
     "drive": "FR",
     "power": 599,
@@ -3073,7 +3073,7 @@
   },
   {
     "name": "Suzuki SWIFT SPORT 2007",
-    "image-src": "images/cars/side/gts_car_182.jpg",
+    "imageSrc": "images/cars/side/gts_car_182.jpg",
     "category": "N 100",
     "drive": "FF",
     "power": 123,
@@ -3089,7 +3089,7 @@
   },
   {
     "name": "Jaguar F-TYPE R COUPE 2014",
-    "image-src": "images/cars/side/gts_car_022.jpg",
+    "imageSrc": "images/cars/side/gts_car_022.jpg",
     "category": "N 600",
     "drive": "FR",
     "power": 542,
@@ -3105,7 +3105,7 @@
   },
   {
     "name": "Subaru IMPREZA COUPE WRX TYPE R STI VERSION VI 1999",
-    "image-src": "images/cars/side/gts_car_306.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_306.jpg?v=2",
     "category": "N 300",
     "drive": "4WD",
     "power": 276,
@@ -3121,7 +3121,7 @@
   },
   {
     "name": "Mitsubishi LANCER EVOLUTION FINAL EDITION GR.3",
-    "image-src": "images/cars/side/gts_car_142.jpg",
+    "imageSrc": "images/cars/side/gts_car_142.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 522,
@@ -3137,7 +3137,7 @@
   },
   {
     "name": "Toyota TS030 HYBRID 2012",
-    "image-src": "images/cars/side/gts_car_113.jpg",
+    "imageSrc": "images/cars/side/gts_car_113.jpg",
     "category": "Gr.1",
     "drive": "MR",
     "power": 529,
@@ -3153,7 +3153,7 @@
   },
   {
     "name": "Audi R8 LMS AUDI SPORT TEAM WRT 2015",
-    "image-src": "images/cars/side/gts_car_061.jpg",
+    "imageSrc": "images/cars/side/gts_car_061.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 586,
@@ -3169,7 +3169,7 @@
   },
   {
     "name": "Honda NSX 2017",
-    "image-src": "images/cars/side/gts_car_124.jpg",
+    "imageSrc": "images/cars/side/gts_car_124.jpg",
     "category": "N 600",
     "drive": "4WD",
     "power": 570,
@@ -3185,7 +3185,7 @@
   },
   {
     "name": "Gran Turismo Greddy Fugu Z 2015",
-    "image-src": "images/cars/side/gts_car_272.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_272.jpg?v=1",
     "category": "N 300",
     "drive": "FR",
     "power": 295,
@@ -3201,7 +3201,7 @@
   },
   {
     "name": "Ferrari 250 GT BERLINETTA PASSO CORTO CN.2521 1961",
-    "image-src": "images/cars/side/gts_car_286.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_286.jpg?v=1",
     "category": "N 300",
     "drive": "FR",
     "power": 275,
@@ -3217,7 +3217,7 @@
   },
   {
     "name": "Honda EPSON NSX 2008",
-    "image-src": "images/cars/side/gts_car_260.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_260.jpg?v=2",
     "category": "Gr.2",
     "drive": "MR",
     "power": 511,
@@ -3233,7 +3233,7 @@
   },
   {
     "name": "Ford MUSTANG GR.3",
-    "image-src": "images/cars/side/gts_car_004.jpg",
+    "imageSrc": "images/cars/side/gts_car_004.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 549,
@@ -3249,7 +3249,7 @@
   },
   {
     "name": "McLaren MCLAREN ULTIMATE VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_036.jpg",
+    "imageSrc": "images/cars/side/gts_car_036.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 1.134,
@@ -3265,7 +3265,7 @@
   },
   {
     "name": "Porsche CAYMAN GT4 CLUBSPORT 2016",
-    "image-src": "images/cars/side/gts_car_065.jpg",
+    "imageSrc": "images/cars/side/gts_car_065.jpg",
     "category": "Gr.4",
     "drive": "MR",
     "power": 380,
@@ -3281,7 +3281,7 @@
   },
   {
     "name": "Bugatti BUGATTI VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_093.jpg",
+    "imageSrc": "images/cars/side/gts_car_093.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 1.626,
@@ -3297,7 +3297,7 @@
   },
   {
     "name": "Lamborghini MIURA P400 BERTONE PROTOTYPE CN.0706 1967",
-    "image-src": "images/cars/side/gts_car_225.jpg",
+    "imageSrc": "images/cars/side/gts_car_225.jpg",
     "category": "N 400",
     "drive": "MR",
     "power": 349,
@@ -3313,7 +3313,7 @@
   },
   {
     "name": "Lamborghini HURACAN GT3 2015",
-    "image-src": "images/cars/side/gts_car_104.jpg",
+    "imageSrc": "images/cars/side/gts_car_104.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 577,
@@ -3329,7 +3329,7 @@
   },
   {
     "name": "Aston Martin DB3S CN.1 1953",
-    "image-src": "images/cars/side/gts_car_274.jpg?v=3",
+    "imageSrc": "images/cars/side/gts_car_274.jpg?v=3",
     "category": "Gr.X",
     "drive": "FR",
     "power": 225,
@@ -3345,7 +3345,7 @@
   },
   {
     "name": "Volkswagen BEETLE GR.3",
-    "image-src": "images/cars/side/gts_car_040.jpg",
+    "imageSrc": "images/cars/side/gts_car_040.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 592,
@@ -3361,7 +3361,7 @@
   },
   {
     "name": "Nissan SILVIA K'S DIA SELECTION (S13) 1990",
-    "image-src": "images/cars/side/gts_car_309.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_309.jpg?v=1",
     "category": "N 200",
     "drive": "FR",
     "power": 172,
@@ -3377,7 +3377,7 @@
   },
   {
     "name": "Lamborghini HURACAN LP 610-4 2015",
-    "image-src": "images/cars/side/gts_car_102.jpg",
+    "imageSrc": "images/cars/side/gts_car_102.jpg",
     "category": "N 600",
     "drive": "4WD",
     "power": 601,
@@ -3393,7 +3393,7 @@
   },
   {
     "name": "Hyundai GENESIS COUPE 3.8 TRACK 2013",
-    "image-src": "images/cars/side/gts_car_151.jpg",
+    "imageSrc": "images/cars/side/gts_car_151.jpg",
     "category": "N 300",
     "drive": "FR",
     "power": 343,
@@ -3409,7 +3409,7 @@
   },
   {
     "name": "Gran Turismo ECKERTS ROD & CUSTOM MACH FORTY",
-    "image-src": "images/cars/side/gts_car_209.jpg",
+    "imageSrc": "images/cars/side/gts_car_209.jpg",
     "category": "N 800",
     "drive": "MR",
     "power": 788,
@@ -3425,7 +3425,7 @@
   },
   {
     "name": "Shelby Cobra 427 1966",
-    "image-src": "images/cars/side/gts_car_171.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_171.jpg?v=2",
     "category": "N 500",
     "drive": "FR",
     "power": 484,
@@ -3441,7 +3441,7 @@
   },
   {
     "name": "Gran Turismo GRAN TURISMO RED BULL X2014 JUNIOR 2014",
-    "image-src": "images/cars/side/gts_car_210.jpg",
+    "imageSrc": "images/cars/side/gts_car_210.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 246,
@@ -3457,7 +3457,7 @@
   },
   {
     "name": "Honda RAYBRIG NSX CONCEPT-GT 2016",
-    "image-src": "images/cars/side/gts_car_212.jpg",
+    "imageSrc": "images/cars/side/gts_car_212.jpg",
     "category": "Gr.2",
     "drive": "MR",
     "power": 603,
@@ -3473,7 +3473,7 @@
   },
   {
     "name": "Lexus RC F GT3 EMIL FREY RACING 2017",
-    "image-src": "images/cars/side/gts_car_214.jpg",
+    "imageSrc": "images/cars/side/gts_car_214.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 525,
@@ -3489,7 +3489,7 @@
   },
   {
     "name": "Ferrari 458 ITALIA 2009",
-    "image-src": "images/cars/side/gts_car_098.jpg",
+    "imageSrc": "images/cars/side/gts_car_098.jpg",
     "category": "N 600",
     "drive": "MR",
     "power": 563,
@@ -3505,7 +3505,7 @@
   },
   {
     "name": "Mazda ATENZA GR.4",
-    "image-src": "images/cars/side/gts_car_131.jpg",
+    "imageSrc": "images/cars/side/gts_car_131.jpg",
     "category": "Gr.4",
     "drive": "4WD",
     "power": 393,
@@ -3521,7 +3521,7 @@
   },
   {
     "name": "Hyundai HYUNDAI N 2025 VISION GRAN TURISMO GR.1",
-    "image-src": "images/cars/side/gts_car_155.jpg",
+    "imageSrc": "images/cars/side/gts_car_155.jpg",
     "category": "Gr.1",
     "drive": "4WD",
     "power": 640,
@@ -3537,7 +3537,7 @@
   },
   {
     "name": "Nissan M0TUL AUTECH GT-R 2016",
-    "image-src": "images/cars/side/gts_car_218.jpg",
+    "imageSrc": "images/cars/side/gts_car_218.jpg",
     "category": "Gr.2",
     "drive": "FR",
     "power": 612,
@@ -3553,7 +3553,7 @@
   },
   {
     "name": "Audi AUDI R18 TDI AUDI SPORT TEAM JOEST 2011",
-    "image-src": "images/cars/side/gts_car_062.jpg",
+    "imageSrc": "images/cars/side/gts_car_062.jpg",
     "category": "Gr.1",
     "drive": "MR",
     "power": 553,
@@ -3569,7 +3569,7 @@
   },
   {
     "name": "Mazda RX500 1970",
-    "image-src": "images/cars/side/gts_car_252.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_252.jpg?v=1",
     "category": "N 300",
     "drive": "MR",
     "power": 248,
@@ -3585,7 +3585,7 @@
   },
   {
     "name": "Ferrari 512 BB 1976",
-    "image-src": "images/cars/side/gts_car_186.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_186.jpg?v=2",
     "category": "N 400",
     "drive": "MR",
     "power": 354,
@@ -3601,7 +3601,7 @@
   },
   {
     "name": "Toyota COROLLA LEVIN 3DOOR 1600GT APEX (AE86) 1983",
-    "image-src": "images/cars/side/gts_car_308.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_308.jpg?v=1",
     "category": "N 100",
     "drive": "FR",
     "power": 127,
@@ -3617,7 +3617,7 @@
   },
   {
     "name": "L",
-    "image-src": "images/cars/side/gts_car_165.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_165.jpg?v=2",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 564,
@@ -3633,7 +3633,7 @@
   },
   {
     "name": "Chevrolet Corvette Sting Ray Sport Coupe 1963",
-    "image-src": "images/cars/side/gts_car_266.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_266.jpg?v=1",
     "category": "N 400",
     "drive": "FR",
     "power": 360,
@@ -3649,7 +3649,7 @@
   },
   {
     "name": "Subaru VIZIV GT VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_139.jpg",
+    "imageSrc": "images/cars/side/gts_car_139.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 630,
@@ -3665,7 +3665,7 @@
   },
   {
     "name": "Nissan GT-R NISMO 2017",
-    "image-src": "images/cars/side/gts_car_216.jpg",
+    "imageSrc": "images/cars/side/gts_car_216.jpg",
     "category": "N 600",
     "drive": "4WD",
     "power": 592,
@@ -3681,7 +3681,7 @@
   },
   {
     "name": "Dodge DODGE CHARGER SRT HELLCAT 2015",
-    "image-src": "images/cars/side/gts_car_011.jpg",
+    "imageSrc": "images/cars/side/gts_car_011.jpg",
     "category": "N 700",
     "drive": "FR",
     "power": 707,
@@ -3697,7 +3697,7 @@
   },
   {
     "name": "De Tomaso PANTERA 1971",
-    "image-src": "images/cars/side/gts_car_197.jpg",
+    "imageSrc": "images/cars/side/gts_car_197.jpg",
     "category": "N 300",
     "drive": "MR",
     "power": 325,
@@ -3713,7 +3713,7 @@
   },
   {
     "name": "Porsche 911 GT3 (996) 2001",
-    "image-src": "images/cars/side/gts_car_256.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_256.jpg?v=1",
     "category": "N 400",
     "drive": "RR",
     "power": 354,
@@ -3729,7 +3729,7 @@
   },
   {
     "name": "MINI MINI CLUBMAN VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_063.jpg",
+    "imageSrc": "images/cars/side/gts_car_063.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 388,
@@ -3745,7 +3745,7 @@
   },
   {
     "name": "Fittipaldi Motors FITTIPALDI EF7 VISION GRAN TURISMO BY PININFARINA",
-    "image-src": "images/cars/side/gts_car_021.jpg",
+    "imageSrc": "images/cars/side/gts_car_021.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 598,
@@ -3761,7 +3761,7 @@
   },
   {
     "name": "RUF CTR3 2007",
-    "image-src": "images/cars/side/gts_car_323.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_323.jpg?v=1",
     "category": "N 700",
     "drive": "MR",
     "power": 690,
@@ -3777,7 +3777,7 @@
   },
   {
     "name": "Honda BEAT 1991",
-    "image-src": "images/cars/side/gts_car_233.jpg",
+    "imageSrc": "images/cars/side/gts_car_233.jpg",
     "category": "N 100",
     "drive": "MR",
     "power": 63,
@@ -3793,7 +3793,7 @@
   },
   {
     "name": "Toyota 86 GT LIMITED 2016",
-    "image-src": "images/cars/side/gts_car_320.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_320.jpg?v=1",
     "category": "N 200",
     "drive": "FR",
     "power": 204,
@@ -3809,7 +3809,7 @@
   },
   {
     "name": "Chevrolet CORVETTE C7 GR.4",
-    "image-src": "images/cars/side/gts_car_009.jpg",
+    "imageSrc": "images/cars/side/gts_car_009.jpg",
     "category": "Gr.4",
     "drive": "FR",
     "power": 414,
@@ -3825,7 +3825,7 @@
   },
   {
     "name": "BMW BMW M6 GT3 WALKENHORST MOTORSPORT 2016",
-    "image-src": "images/cars/side/gts_car_055.jpg",
+    "imageSrc": "images/cars/side/gts_car_055.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 584,
@@ -3841,7 +3841,7 @@
   },
   {
     "name": "Lancia DELTA HF INTEGRALE EVOLUZIONE 1991",
-    "image-src": "images/cars/side/gts_car_245.jpg",
+    "imageSrc": "images/cars/side/gts_car_245.jpg",
     "category": "N 200",
     "drive": "4WD",
     "power": 209,
@@ -3857,7 +3857,7 @@
   },
   {
     "name": "BMW BMW M3 SPORT EVOLUTION 1989",
-    "image-src": "images/cars/side/gts_car_208.jpg",
+    "imageSrc": "images/cars/side/gts_car_208.jpg",
     "category": "N 200",
     "drive": "FR",
     "power": 235,
@@ -3873,7 +3873,7 @@
   },
   {
     "name": "Daihatsu DAIHATSU COPEN RJ VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_145.jpg",
+    "imageSrc": "images/cars/side/gts_car_145.jpg",
     "category": "Gr.X",
     "drive": "FF",
     "power": 147,
@@ -3889,7 +3889,7 @@
   },
   {
     "name": "2013 Toyota CROWN ATHLETE G 2013",
-    "image-src": "images/cars/side/gts_car_330.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_330.jpg?v=1",
     "category": "N 300",
     "drive": "FR",
     "power": 309,
@@ -3905,7 +3905,7 @@
   },
   {
     "name": "Aston Martin VANTAGE GR.4",
-    "image-src": "images/cars/side/gts_car_026.jpg",
+    "imageSrc": "images/cars/side/gts_car_026.jpg",
     "category": "Gr.4",
     "drive": "FR",
     "power": 399,
@@ -3921,7 +3921,7 @@
   },
   {
     "name": "Ford F-150 SVT RAPTOR 2011",
-    "image-src": "images/cars/side/gts_car_172.jpg",
+    "imageSrc": "images/cars/side/gts_car_172.jpg",
     "category": "N 400",
     "drive": "4WD",
     "power": 411,
@@ -3937,7 +3937,7 @@
   },
   {
     "name": "Ford GT40 MARK I 1966",
-    "image-src": "images/cars/side/gts_car_206.jpg",
+    "imageSrc": "images/cars/side/gts_car_206.jpg",
     "category": "N 400",
     "drive": "MR",
     "power": 354,
@@ -3953,7 +3953,7 @@
   },
   {
     "name": "TVR Tuscan Speed 6 2000",
-    "image-src": "images/cars/side/gts_car_278.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_278.jpg?v=2",
     "category": "N 400",
     "drive": "FR",
     "power": 361,
@@ -3969,7 +3969,7 @@
   },
   {
     "name": "Mercedes-Benz SLS AMG 2010",
-    "image-src": "images/cars/side/gts_car_045.jpg",
+    "imageSrc": "images/cars/side/gts_car_045.jpg",
     "category": "N 600",
     "drive": "FR",
     "power": 570,
@@ -3985,7 +3985,7 @@
   },
   {
     "name": "Mazda ROADSTER S 2015",
-    "image-src": "images/cars/side/gts_car_129.jpg",
+    "imageSrc": "images/cars/side/gts_car_129.jpg",
     "category": "N 100",
     "drive": "FR",
     "power": 128,
@@ -4001,7 +4001,7 @@
   },
   {
     "name": "Ferrari 250 GTO CN.3729GT 1962",
-    "image-src": "images/cars/side/gts_car_236.jpg",
+    "imageSrc": "images/cars/side/gts_car_236.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 296,
@@ -4017,7 +4017,7 @@
   },
   {
     "name": "Chevrolet CORVETTE STINGRAY CONVERTIBLE 1969",
-    "image-src": "images/cars/side/gts_car_173.jpg",
+    "imageSrc": "images/cars/side/gts_car_173.jpg",
     "category": "N 300",
     "drive": "FR",
     "power": 299,
@@ -4033,7 +4033,7 @@
   },
   {
     "name": "Lexus RCF 2014",
-    "image-src": "images/cars/side/gts_car_146.jpg",
+    "imageSrc": "images/cars/side/gts_car_146.jpg",
     "category": "N 500",
     "drive": "FR",
     "power": 469,
@@ -4049,7 +4049,7 @@
   },
   {
     "name": "Dodge VIPER GR.4",
-    "image-src": "images/cars/side/gts_car_013.jpg",
+    "imageSrc": "images/cars/side/gts_car_013.jpg",
     "category": "Gr.4",
     "drive": "FR",
     "power": 429,
@@ -4065,7 +4065,7 @@
   },
   {
     "name": "Mercedes-Benz 300 SEL 6.8 AMG 1971",
-    "image-src": "images/cars/side/gts_car_316.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_316.jpg?v=1",
     "category": "Gr.X",
     "drive": "FR",
     "power": 422,
@@ -4081,7 +4081,7 @@
   },
   {
     "name": "BMW BMW M4 GR.4",
-    "image-src": "images/cars/side/gts_car_053.jpg",
+    "imageSrc": "images/cars/side/gts_car_053.jpg",
     "category": "Gr.4",
     "drive": "FR",
     "power": 394,
@@ -4097,7 +4097,7 @@
   },
   {
     "name": "BMW BMW VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_057.jpg",
+    "imageSrc": "images/cars/side/gts_car_057.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 541,
@@ -4113,7 +4113,7 @@
   },
   {
     "name": "Renault MEGANE RS TROPHY SAFETY CAR",
-    "image-src": "images/cars/side/gts_car_329.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_329.jpg?v=1",
     "category": "N 300",
     "drive": "FF",
     "power": 261,
@@ -4129,7 +4129,7 @@
   },
   {
     "name": "Dodge VIPER SRT GT3-R 2015",
-    "image-src": "images/cars/side/gts_car_014.jpg",
+    "imageSrc": "images/cars/side/gts_car_014.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 678,
@@ -4145,7 +4145,7 @@
   },
   {
     "name": "Infiniti INFINITI CONCEPT VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_019.jpg",
+    "imageSrc": "images/cars/side/gts_car_019.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 535,
@@ -4161,7 +4161,7 @@
   },
   {
     "name": "Nissan Fairlady Z 300ZX Twin Turbo 2 Seater 1989",
-    "image-src": "images/cars/side/gts_car_253.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_253.jpg?v=1",
     "category": "N 300",
     "drive": "FR",
     "power": 276,
@@ -4177,7 +4177,7 @@
   },
   {
     "name": "Renault Sport MEGANE TROPHY 2011",
-    "image-src": "images/cars/side/gts_car_224.jpg",
+    "imageSrc": "images/cars/side/gts_car_224.jpg",
     "category": "Gr.4",
     "drive": "MR",
     "power": 360,
@@ -4193,7 +4193,7 @@
   },
   {
     "name": "Fiat 500 F 1968",
-    "image-src": "images/cars/side/gts_car_226.jpg",
+    "imageSrc": "images/cars/side/gts_car_226.jpg",
     "category": "N 100",
     "drive": "RR",
     "power": 17,
@@ -4209,7 +4209,7 @@
   },
   {
     "name": "Dodge SUPER BEE 1970",
-    "image-src": "images/cars/side/gts_car_313.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_313.jpg?v=1",
     "category": "N 300",
     "drive": "FR",
     "power": 335,
@@ -4225,7 +4225,7 @@
   },
   {
     "name": "2018 Toyota GR Supra Racing Concept 2018",
-    "image-src": "images/cars/side/gts_car_221.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_221.jpg?v=1",
     "category": "Gr.3",
     "drive": "FR",
     "power": 631,
@@ -4241,7 +4241,7 @@
   },
   {
     "name": "Nissan SKYLINE GT-R V-SPEC 1997",
-    "image-src": "images/cars/side/gts_car_217.jpg",
+    "imageSrc": "images/cars/side/gts_car_217.jpg",
     "category": "N 300",
     "drive": "4WD",
     "power": 319,
@@ -4257,7 +4257,7 @@
   },
   {
     "name": "Mazda Mazda Eunos Roadster (NA Special Package) 1989",
-    "image-src": "images/cars/side/gts_car_281.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_281.jpg?v=2",
     "category": "N 100",
     "drive": "FR",
     "power": 117,
@@ -4273,7 +4273,7 @@
   },
   {
     "name": "Chevrolet CAMARO ZL1 1LE PACKAGE 2018",
-    "image-src": "images/cars/side/gts_car_312.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_312.jpg?v=1",
     "category": "N 700",
     "drive": "FR",
     "power": 650,
@@ -4289,7 +4289,7 @@
   },
   {
     "name": "Mercedes-Benz AMG VISION GRAN TURISMO RACING SERIES",
-    "image-src": "images/cars/side/gts_car_050.jpg",
+    "imageSrc": "images/cars/side/gts_car_050.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 591,
@@ -4305,7 +4305,7 @@
   },
   {
     "name": "Alpine ALPINE VISION GRAN TURISMO 2017",
-    "image-src": "images/cars/side/gts_car_087.jpg",
+    "imageSrc": "images/cars/side/gts_car_087.jpg",
     "category": "Gr.1",
     "drive": "RR",
     "power": 595,
@@ -4321,7 +4321,7 @@
   },
   {
     "name": "RE Amemiya FD3S RX-7",
-    "image-src": "images/cars/side/gts_car_321.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_321.jpg?v=1",
     "category": "N 400",
     "drive": "FR",
     "power": 367,
@@ -4337,7 +4337,7 @@
   },
   {
     "name": "Toyota S-FR 2015",
-    "image-src": "images/cars/side/gts_car_107.jpg",
+    "imageSrc": "images/cars/side/gts_car_107.jpg",
     "category": "N 100",
     "drive": "FR",
     "power": 133,
@@ -4353,7 +4353,7 @@
   },
   {
     "name": "Subaru Impreza 22B-STi Version 1998",
-    "image-src": "images/cars/side/gts_car_265.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_265.jpg?v=1",
     "category": "N 300",
     "drive": "4WD",
     "power": 290,
@@ -4369,7 +4369,7 @@
   },
   {
     "name": "Mercedes-Benz SLS AMG GT3 2011",
-    "image-src": "images/cars/side/gts_car_047.jpg",
+    "imageSrc": "images/cars/side/gts_car_047.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 570,
@@ -4385,7 +4385,7 @@
   },
   {
     "name": "Dodge CHARGER SRT HELLCAT SAFETY CAR",
-    "image-src": "images/cars/side/gts_car_326.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_326.jpg?v=1",
     "category": "Gr.X",
     "drive": "FR",
     "power": 707,
@@ -4401,7 +4401,7 @@
   },
   {
     "name": "Zagato IsoRivolta Zagato Vision Gran Turismo",
-    "image-src": "images/cars/side/gts_car_169.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_169.jpg?v=2",
     "category": "Gr.X",
     "drive": "FR",
     "power": 559,
@@ -4417,7 +4417,7 @@
   },
   {
     "name": "Ford MARK IV RACE CAR 1967",
-    "image-src": "images/cars/side/gts_car_239.jpg",
+    "imageSrc": "images/cars/side/gts_car_239.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 504,
@@ -4433,7 +4433,7 @@
   },
   {
     "name": "Hyundai GENESIS GR.4",
-    "image-src": "images/cars/side/gts_car_152.jpg",
+    "imageSrc": "images/cars/side/gts_car_152.jpg",
     "category": "Gr.4",
     "drive": "FR",
     "power": 385,
@@ -4449,7 +4449,7 @@
   },
   {
     "name": "Toyota 86 GR.4",
-    "image-src": "images/cars/side/gts_car_110.jpg",
+    "imageSrc": "images/cars/side/gts_car_110.jpg",
     "category": "Gr.4",
     "drive": "FR",
     "power": 359,
@@ -4465,7 +4465,7 @@
   },
   {
     "name": "Nissan R92CP 1992",
-    "image-src": "images/cars/side/gts_car_228.jpg",
+    "imageSrc": "images/cars/side/gts_car_228.jpg",
     "category": "Gr.1",
     "drive": "MR",
     "power": 939,
@@ -4481,7 +4481,7 @@
   },
   {
     "name": "Ferrari 458 ITALIA GR.4",
-    "image-src": "images/cars/side/gts_car_099.jpg",
+    "imageSrc": "images/cars/side/gts_car_099.jpg",
     "category": "Gr.4",
     "drive": "MR",
     "power": 375,
@@ -4497,7 +4497,7 @@
   },
   {
     "name": "Renault Sport MEGANE R.S. TROPHY 2011",
-    "image-src": "images/cars/side/gts_car_069.jpg",
+    "imageSrc": "images/cars/side/gts_car_069.jpg",
     "category": "N 300",
     "drive": "FF",
     "power": 261,
@@ -4513,7 +4513,7 @@
   },
   {
     "name": "McLaren MCLAREN ULTIMATE VISION GRAN TURISMO GR.1",
-    "image-src": "images/cars/side/gts_car_035.jpg",
+    "imageSrc": "images/cars/side/gts_car_035.jpg",
     "category": "Gr.1",
     "drive": "MR",
     "power": 937,
@@ -4529,7 +4529,7 @@
   },
   {
     "name": "Subaru BRZS 2015",
-    "image-src": "images/cars/side/gts_car_229.jpg",
+    "imageSrc": "images/cars/side/gts_car_229.jpg",
     "category": "N 200",
     "drive": "FR",
     "power": 198,
@@ -4545,7 +4545,7 @@
   },
   {
     "name": "Ford MUSTANG GT PREMIUM FASTBACK 2015",
-    "image-src": "images/cars/side/gts_car_002.jpg",
+    "imageSrc": "images/cars/side/gts_car_002.jpg",
     "category": "N 400",
     "drive": "FR",
     "power": 435,
@@ -4561,7 +4561,7 @@
   },
   {
     "name": "Lexus PETRONAS TOM'S SC430 2008",
-    "image-src": "images/cars/side/gts_car_261.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_261.jpg?v=2",
     "category": "Gr.2",
     "drive": "FR",
     "power": 487,
@@ -4577,7 +4577,7 @@
   },
   {
     "name": "Mercedes-Benz MERCEDES-AMG F1 W08 EQ POWER+ COLOR VARIATION 2017",
-    "image-src": "images/cars/side/gts_car_238.jpg",
+    "imageSrc": "images/cars/side/gts_car_238.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 899,
@@ -4593,7 +4593,7 @@
   },
   {
     "name": "Bugatti VEYRON GR.4",
-    "image-src": "images/cars/side/gts_car_090.jpg",
+    "imageSrc": "images/cars/side/gts_car_090.jpg",
     "category": "Gr.4",
     "drive": "4WD",
     "power": 434,
@@ -4609,7 +4609,7 @@
   },
   {
     "name": "Mercedes-Benz MERCEDES-AMG GT SAFETY CAR",
-    "image-src": "images/cars/side/gts_car_163.jpg",
+    "imageSrc": "images/cars/side/gts_car_163.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 0,
@@ -4625,7 +4625,7 @@
   },
   {
     "name": "Nissan SKYLINE GT-R V-SPEC II NUR 2002",
-    "image-src": "images/cars/side/gts_car_181.jpg",
+    "imageSrc": "images/cars/side/gts_car_181.jpg",
     "category": "N 300",
     "drive": "4WD",
     "power": 336,
@@ -4641,7 +4641,7 @@
   },
   {
     "name": "Dodge Viper SRT10 Coupe 2006",
-    "image-src": "images/cars/side/gts_car_249.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_249.jpg?v=1",
     "category": "N 500",
     "drive": "FR",
     "power": 509,
@@ -4657,7 +4657,7 @@
   },
   {
     "name": "Ford FORD GT LM SPEC II TEST CAR",
-    "image-src": "images/cars/side/gts_car_231.jpg",
+    "imageSrc": "images/cars/side/gts_car_231.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 591,
@@ -4673,7 +4673,7 @@
   },
   {
     "name": "Gran Turismo GRAN TURISMO RED BULL X2014 STANDARD 2014",
-    "image-src": "images/cars/side/gts_car_211.jpg",
+    "imageSrc": "images/cars/side/gts_car_211.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 799,
@@ -4689,7 +4689,7 @@
   },
   {
     "name": "Bugatti BUGATTI VISION GRAN TURISMO GR.1",
-    "image-src": "images/cars/side/gts_car_091.jpg",
+    "imageSrc": "images/cars/side/gts_car_091.jpg",
     "category": "Gr.1",
     "drive": "4WD",
     "power": 641,
@@ -4705,7 +4705,7 @@
   },
   {
     "name": "Toyota S-FR RACING CONCEPT 2016",
-    "image-src": "images/cars/side/gts_car_109.jpg",
+    "imageSrc": "images/cars/side/gts_car_109.jpg",
     "category": "N 400",
     "drive": "FR",
     "power": 349,
@@ -4721,7 +4721,7 @@
   },
   {
     "name": "Alpine ALPINE VISION GRAN TURISMO RACE MODE",
-    "image-src": "images/cars/side/gts_car_089.jpg",
+    "imageSrc": "images/cars/side/gts_car_089.jpg",
     "category": "Gr.X",
     "drive": "MR",
     "power": 444,
@@ -4737,7 +4737,7 @@
   },
   {
     "name": "Dodge VIPER GTS 2013",
-    "image-src": "images/cars/side/gts_car_012.jpg",
+    "imageSrc": "images/cars/side/gts_car_012.jpg",
     "category": "N 600",
     "drive": "FR",
     "power": 640,
@@ -4753,7 +4753,7 @@
   },
   {
     "name": "Peugeot RCZ GR.3",
-    "image-src": "images/cars/side/gts_car_077.jpg",
+    "imageSrc": "images/cars/side/gts_car_077.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 517,
@@ -4769,7 +4769,7 @@
   },
   {
     "name": "Porsche 962 C 1988",
-    "image-src": "images/cars/side/gts_car_293.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_293.jpg?v=1",
     "category": "Gr.1",
     "drive": "MR",
     "power": 611,
@@ -4785,7 +4785,7 @@
   },
   {
     "name": "Ferrari Dino 246 GT 1971",
-    "image-src": "images/cars/side/gts_car_276.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_276.jpg?v=2",
     "category": "N 200",
     "drive": "MR",
     "power": 191,
@@ -4801,7 +4801,7 @@
   },
   {
     "name": "Ferrari F50 1995",
-    "image-src": "images/cars/side/gts_car_270.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_270.jpg?v=1",
     "category": "N 500",
     "drive": "MR",
     "power": 512,
@@ -4817,7 +4817,7 @@
   },
   {
     "name": "Ford MUSTANG GR.B RALLY CAR",
-    "image-src": "images/cars/side/gts_car_005.jpg",
+    "imageSrc": "images/cars/side/gts_car_005.jpg",
     "category": "Gr.B",
     "drive": "4WD",
     "power": 549,
@@ -4833,7 +4833,7 @@
   },
   {
     "name": "Ferrari GTO 1984",
-    "image-src": "images/cars/side/gts_car_257.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_257.jpg?v=1",
     "category": "N 400",
     "drive": "MR",
     "power": 394,
@@ -4849,7 +4849,7 @@
   },
   {
     "name": "KTM X-BOW R 2012",
-    "image-src": "images/cars/side/gts_car_174.jpg",
+    "imageSrc": "images/cars/side/gts_car_174.jpg",
     "category": "N 300",
     "drive": "MR",
     "power": 299,
@@ -4865,7 +4865,7 @@
   },
   {
     "name": "Volkswagen GOLF I GTI 1983",
-    "image-src": "images/cars/side/gts_car_332.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_332.jpg?v=1",
     "category": "N 100",
     "drive": "FF",
     "power": 110,
@@ -4881,7 +4881,7 @@
   },
   {
     "name": "Dodge SRT TOMAHAWK VISION GRAN TURISMO GR.1",
-    "image-src": "images/cars/side/gts_car_015.jpg",
+    "imageSrc": "images/cars/side/gts_car_015.jpg",
     "category": "Gr.1",
     "drive": "MR",
     "power": 693,
@@ -4897,7 +4897,7 @@
   },
   {
     "name": "Toyota TUNDRA TRD PRO 2019",
-    "image-src": "images/cars/side/gts_car_299.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_299.jpg?v=2",
     "category": "N 400",
     "drive": "4WD",
     "power": 380,
@@ -4913,7 +4913,7 @@
   },
   {
     "name": "Aston Martin ONE-77 2011",
-    "image-src": "images/cars/side/gts_car_028.jpg",
+    "imageSrc": "images/cars/side/gts_car_028.jpg",
     "category": "N 800",
     "drive": "FR",
     "power": 748,
@@ -4929,7 +4929,7 @@
   },
   {
     "name": "McLaren 650S GR.4",
-    "image-src": "images/cars/side/gts_car_033.jpg",
+    "imageSrc": "images/cars/side/gts_car_033.jpg",
     "category": "Gr.4",
     "drive": "MR",
     "power": 399,
@@ -4945,7 +4945,7 @@
   },
   {
     "name": "Toyota 86 GT 2015",
-    "image-src": "images/cars/side/gts_car_106.jpg",
+    "imageSrc": "images/cars/side/gts_car_106.jpg",
     "category": "N 200",
     "drive": "FR",
     "power": 198,
@@ -4961,7 +4961,7 @@
   },
   {
     "name": "Volkswagen GTI ROADSTER VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_041.jpg",
+    "imageSrc": "images/cars/side/gts_car_041.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 551,
@@ -4977,7 +4977,7 @@
   },
   {
     "name": "Ferrari LA FERRARI 2013",
-    "image-src": "images/cars/side/gts_car_101.jpg",
+    "imageSrc": "images/cars/side/gts_car_101.jpg",
     "category": "N1000",
     "drive": "MR",
     "power": 949,
@@ -4993,7 +4993,7 @@
   },
   {
     "name": "Mazda LM55 VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_134.jpg",
+    "imageSrc": "images/cars/side/gts_car_134.jpg",
     "category": "Gr.X",
     "drive": "4WD",
     "power": 792,
@@ -5009,7 +5009,7 @@
   },
   {
     "name": "McLaren MP4-12C 2010",
-    "image-src": "images/cars/side/gts_car_031.jpg",
+    "imageSrc": "images/cars/side/gts_car_031.jpg",
     "category": "N 600",
     "drive": "MR",
     "power": 600,
@@ -5025,7 +5025,7 @@
   },
   {
     "name": "Honda NSX GR.4",
-    "image-src": "images/cars/side/gts_car_125.jpg",
+    "imageSrc": "images/cars/side/gts_car_125.jpg",
     "category": "Gr.4",
     "drive": "MR",
     "power": 394,
@@ -5041,7 +5041,7 @@
   },
   {
     "name": "Fiat 500 1.2 8V LOUNGE SS 2008",
-    "image-src": "images/cars/side/gts_car_334.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_334.jpg?v=1",
     "category": "N 100",
     "drive": "FF",
     "power": 68,
@@ -5057,7 +5057,7 @@
   },
   {
     "name": "Toyota GR Supra RZ 2019",
-    "image-src": "images/cars/side/gts_car_282.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_282.jpg?v=1",
     "category": "N 300",
     "drive": "FR",
     "power": 335,
@@ -5073,7 +5073,7 @@
   },
   {
     "name": "Aston Martin ASTON MARTIN VULCAN 2016",
-    "image-src": "images/cars/side/gts_car_029.jpg",
+    "imageSrc": "images/cars/side/gts_car_029.jpg",
     "category": "N 800",
     "drive": "FR",
     "power": 820,
@@ -5089,7 +5089,7 @@
   },
   {
     "name": "Honda CIVIC TYPER 2015",
-    "image-src": "images/cars/side/gts_car_122.jpg",
+    "imageSrc": "images/cars/side/gts_car_122.jpg",
     "category": "N 300",
     "drive": "FF",
     "power": 306,
@@ -5105,7 +5105,7 @@
   },
   {
     "name": "BMW BMW M4 Safety Car",
-    "image-src": "images/cars/side/gts_car_158.jpg",
+    "imageSrc": "images/cars/side/gts_car_158.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 0,
@@ -5121,7 +5121,7 @@
   },
   {
     "name": "Ferrari 365 GTB4 1971",
-    "image-src": "images/cars/side/gts_car_314.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_314.jpg?v=1",
     "category": "N 400",
     "drive": "FR",
     "power": 347,
@@ -5137,7 +5137,7 @@
   },
   {
     "name": "Jaguar XJ13 1966",
-    "image-src": "images/cars/side/gts_car_188.jpg?v=2",
+    "imageSrc": "images/cars/side/gts_car_188.jpg?v=2",
     "category": "Gr.X",
     "drive": "MR",
     "power": 511,
@@ -5153,7 +5153,7 @@
   },
   {
     "name": "Peugeot RCZ GR.B RALLY CAR",
-    "image-src": "images/cars/side/gts_car_078.jpg",
+    "imageSrc": "images/cars/side/gts_car_078.jpg",
     "category": "Gr.B",
     "drive": "4WD",
     "power": 517,
@@ -5169,7 +5169,7 @@
   },
   {
     "name": "MINI Mini Cooper S 2005",
-    "image-src": "images/cars/side/gts_car_264.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_264.jpg?v=1",
     "category": "N 200",
     "drive": "FF",
     "power": 168,
@@ -5185,7 +5185,7 @@
   },
   {
     "name": "Toyota GR SUPRA (Nürburgring '19 Livery)",
-    "image-src": "images/cars/side/gts_car_325.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_325.jpg?v=1",
     "category": "Gr.4",
     "drive": "FR",
     "power": 394,
@@ -5201,7 +5201,7 @@
   },
   {
     "name": "Chevrolet CORVETTE C7 GR.3",
-    "image-src": "images/cars/side/gts_car_010.jpg",
+    "imageSrc": "images/cars/side/gts_car_010.jpg",
     "category": "Gr.3",
     "drive": "FR",
     "power": 551,
@@ -5217,7 +5217,7 @@
   },
   {
     "name": "Renault R8 GORDINI 1966",
-    "image-src": "images/cars/side/gts_car_294.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_294.jpg?v=1",
     "category": "Gr.X",
     "drive": "RR",
     "power": 102,
@@ -5233,7 +5233,7 @@
   },
   {
     "name": "Alfa Romeo Giulia TZ2 Carrozzata da Zagato CN.AR750106 1965",
-    "image-src": "images/cars/side/gts_car_247.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_247.jpg?v=1",
     "category": "Gr.X",
     "drive": "FR",
     "power": 169,
@@ -5249,7 +5249,7 @@
   },
   {
     "name": "Audi TT CUP 2016",
-    "image-src": "images/cars/side/gts_car_059.jpg",
+    "imageSrc": "images/cars/side/gts_car_059.jpg",
     "category": "Gr.4",
     "drive": "FF",
     "power": 335,
@@ -5265,7 +5265,7 @@
   },
   {
     "name": "Lexus LC500 2017",
-    "image-src": "images/cars/side/gts_car_147.jpg",
+    "imageSrc": "images/cars/side/gts_car_147.jpg",
     "category": "N 500",
     "drive": "FR",
     "power": 469,
@@ -5281,7 +5281,7 @@
   },
   {
     "name": "Lexus AU TOM'S RCF 2016",
-    "image-src": "images/cars/side/gts_car_213.jpg",
+    "imageSrc": "images/cars/side/gts_car_213.jpg",
     "category": "Gr.2",
     "drive": "FR",
     "power": 614,
@@ -5297,7 +5297,7 @@
   },
   {
     "name": "Nissan GT-R GR.B RALLY CAR",
-    "image-src": "images/cars/side/gts_car_119.jpg",
+    "imageSrc": "images/cars/side/gts_car_119.jpg",
     "category": "Gr.B",
     "drive": "4WD",
     "power": 542,
@@ -5313,7 +5313,7 @@
   },
   {
     "name": "Maserati Gran Turismo S 2008",
-    "image-src": "images/cars/side/gts_car_258.jpg?v=1",
+    "imageSrc": "images/cars/side/gts_car_258.jpg?v=1",
     "category": "N 400",
     "drive": "FR",
     "power": 440,
@@ -5329,7 +5329,7 @@
   },
   {
     "name": "Volkswagen GTI VISION GRAN TURISMO GR.3",
-    "image-src": "images/cars/side/gts_car_039.jpg",
+    "imageSrc": "images/cars/side/gts_car_039.jpg",
     "category": "Gr.3",
     "drive": "MR",
     "power": 551,
@@ -5345,7 +5345,7 @@
   },
   {
     "name": "Toyota FT-1 VISION GRAN TURISMO",
-    "image-src": "images/cars/side/gts_car_115.jpg",
+    "imageSrc": "images/cars/side/gts_car_115.jpg",
     "category": "Gr.X",
     "drive": "FR",
     "power": 614,
@@ -5361,7 +5361,7 @@
   },
   {
     "name": "Subaru WRX GR.4",
-    "image-src": "images/cars/side/gts_car_136.jpg",
+    "imageSrc": "images/cars/side/gts_car_136.jpg",
     "category": "Gr.4",
     "drive": "4WD",
     "power": 378,
