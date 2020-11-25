@@ -23,6 +23,11 @@ class _CarListPageState extends State<CarListPage> {
 
   @override
   Widget build(BuildContext context) {
+    var mediaQuery = MediaQuery.of(context);
+
+    var screenWidth = mediaQuery.size.width;
+    var screenHeight = mediaQuery.size.height;
+
     return Scaffold(
       appBar: AppBar(
         title: Text("Car List View"),
@@ -30,7 +35,6 @@ class _CarListPageState extends State<CarListPage> {
       body: Column(
         children: [
           Container(
-            margin: EdgeInsets.only(left: 15),
             child: Row(
               children: [
                 DropdownFilter(
@@ -38,6 +42,7 @@ class _CarListPageState extends State<CarListPage> {
                   items: widget.vm.categories,
                   onSelected: widget.vm.filterByCategory,
                 ),
+                SizedBox(width: screenWidth * .05),
                 DropdownFilter(
                   label: "drives",
                   items: widget.vm.drives,
